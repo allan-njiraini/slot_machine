@@ -1,2 +1,2 @@
 # slot_machine
-A simple gambling slot machine written in python.
+A simple text based slot machine you can play written in python.
